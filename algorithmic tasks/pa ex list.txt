@@ -1,0 +1,10 @@
+(Done)LinkedList - https://learn.code.cool/dotnet-csharp/#/../assignments/algorithms-and-data-structures/linked-list
+(Done)Stack - https://learn.code.cool/dotnet-csharp/#/../assignments/algorithms-and-data-structures/stack
+(Done)Trie - https://learn.code.cool/dotnet-csharp/#/../assignments/algorithms-and-data-structures/tries-autocomplete-app
+(Done)HashMap - https://learn.code.cool/dotnet-csharp/#/../assignments/algorithms-and-data-structures/hashmap-dictionary
+(Done)Quicksort - https://learn.code.cool/oop-java/#/../assignments/algorithms-and-data-structures/quicksort
+(Done)Mergesort - https://learn.code.cool/oop-java/#/../assignments/algorithms-and-data-structures/merge-sort
+(Done)Queue - https://learn.code.cool/oop-java/#/../assignments/algorithms-and-data-structures/queue
+(Done)Heap - https://learn.code.cool/oop-java/#/../assignments/algorithms-and-data-structures/heap
+BreadthFirstSearch - https://learn.code.cool/oop-java/#/../assignments/algorithms-and-data-structures/breadth-first-search
+(Done)BinarySearchTrees - https://learn.code.cool/oop-java/#/../assignments/algorithms-and-data-structures/binary-search-trees
